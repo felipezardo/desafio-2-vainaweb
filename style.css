@@ -1,5 +1,5 @@
 body {
-  background-color: rgba(76, 10, 182, 0.774);
+  background-color: rgba(5, 3, 110, 0.87);
 }
 
 h1 {
@@ -15,7 +15,7 @@ p {
 }
 
 div {
-  background-color: rgba(98, 0, 255, 0.932);
+  background-color: rgb(68, 0, 255);
 }
 
 li {
@@ -23,7 +23,7 @@ li {
 }
 
 footer {
-  background-color: rgb(86, 37, 163);
+  background-color: grey;
 }
 
 footer {
@@ -31,17 +31,25 @@ footer {
 }
 
 img {
-  width: 237px;
+  width: 200px;
 }
 
 img {
-  height: 229px;
-}
-
-img {
-  top: 116px;
+  margin-left: 0%;
 }
 
 body {
-  font: 1em sans-serif;
+  font: 1em ascendant-serif;
+}
+
+h1 {
+  margin-left: 40px;
+}
+
+p {
+  margin-left: 40px;
+}
+
+section {
+  margin: 40px;
 }/*# sourceMappingURL=style.css.map */
