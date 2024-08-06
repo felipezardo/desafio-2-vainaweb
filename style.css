@@ -1,11 +1,12 @@
 * {
   margin: 0;
+  letter-spacing: 2px;
 }
 
 body {
-  background-color: rgb(66, 12, 214);
+  background-color: rgba(6, 6, 172, 0.904);
   font-style: oblique;
-  font-family: Verdana, Tahoma, sans-serif;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
   color: antiquewhite;
 }
 
@@ -19,7 +20,9 @@ img {
   height: 229px;
   top: 116px;
   left: 120px;
-  border-radius: 100%;
+  border-radius: 50%;
+  border-color: green;
+  background: linear-gradient(to right, rgb(131, 247, 54), rgb(13, 211, 13), rgb(3, 114, 3));
 }
 
 main {
@@ -28,16 +31,17 @@ main {
 }
 
 footer {
-  background-color: gray;
+  background-color: grey;
   margin: 0;
   text-align: center;
   color: black;
+  padding: 20px;
 }
 
 div {
   margin-bottom: 15px;
   margin-top: 20px;
-  background-color: rgb(44, 9, 202);
+  background-color: rgba(128, 0, 128, 0.486);
   border-radius: 10px;
 }
 
@@ -47,6 +51,6 @@ p {
 
 a {
   color: antiquewhite;
-  background-color: rgb(44, 9, 202);
+  background-color: rgba(128, 0, 128, 0.486);
   border-radius: 10px;
 }/*# sourceMappingURL=style.css.map */
