@@ -27,6 +27,7 @@ img {
     height: 229px;
     top: 116px;
     left: 120px;
+    margin-top: 50px;
     border-radius: 50%;
     border-color: green;
     background: linear-gradient(to right, rgb(131, 247, 54), rgb(13, 211, 13), rgb(3, 114, 3));
@@ -35,6 +36,7 @@ img {
 main {
     margin-left: 30px;
     margin-right: 30px;
+    height: 60vh;
 }
 
 footer {
@@ -43,7 +45,7 @@ footer {
    background-color: $cor-rodape;
    color: black;
    padding: 15px;
-   margin-top: 40px;
+ 
    
 }
 
